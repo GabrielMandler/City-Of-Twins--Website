@@ -7,6 +7,7 @@ Written in PHP, AJAX, HTML 5, CSS 3,Bootstrap 4 Javascript, Jquery.
 
 
 Check it live at: https://city-of-twins.000webhostapp.com
+Also check the Epk website: https://city-of-twins.000webhostapp.com/epk
 
 ![alt text](https://raw.githubusercontent.com/GabrielMandler/CityOfTwins-Music/master/12.png?raw=true)
 
