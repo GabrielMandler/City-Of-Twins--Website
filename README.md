@@ -1,5 +1,10 @@
 # City Of Twins
+
 A website designed for a band.
+
+Check it live at: https://city-of-twins.000webhostapp.com
+
+Also check the Epk website: https://city-of-twins.000webhostapp.com/epk
 
 Check both desktop and mobile version for totaly different experience!
 
@@ -17,11 +22,6 @@ Bootstrap 4
 Javascript 
 
 Jquery
-
-
-Check it live at: https://city-of-twins.000webhostapp.com
-
-Also check the Epk website: https://city-of-twins.000webhostapp.com/epk
 
 ![alt text](https://raw.githubusercontent.com/GabrielMandler/CityOfTwins-Music/master/12.png?raw=true)
 
