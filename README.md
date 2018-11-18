@@ -6,7 +6,7 @@ Check it live at: https://city-of-twins.000webhostapp.com
 
 Also check the Epk website: https://city-of-twins.000webhostapp.com/epk
 
-Unfortunately because of the recent changes in mobile browser, the best way to check the site is in desktop or mobile mode in DevTools on chrome.
+Unfortunately because of the recent changes in mobile browser, the best way to check the site is in desktop or mobile in DevTools on chrome.
 
 # Build with:
 PHP
