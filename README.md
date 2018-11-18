@@ -1,6 +1,6 @@
 # City Of Twins
 
-A website designed for a band.
+A website designed for my band.
 
 Check it live at: https://city-of-twins.000webhostapp.com
 
