@@ -1,15 +1,21 @@
 # City Of Twins
-A website designed for my band!
+A website designed for a band.
 
 Check both desktop and mobile version for totaly different experience!
 
 # Build with:
 PHP
+
 AJAX
+
 HTML 5
+
 CSS 3
+
 Bootstrap 4 
+
 Javascript 
+
 Jquery
 
 
