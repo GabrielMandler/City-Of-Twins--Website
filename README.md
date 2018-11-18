@@ -9,21 +9,17 @@ Also check the Epk website: https://city-of-twins.000webhostapp.com/epk
 Unfortunately because of the recent changes in mobile browser, the best way to check the site is in desktop or mobile in DevTools on chrome.
 
 # Build with:
-PHP
 
-AJAX
+[Jquery]
 
-HTML 5
+[Javascript]
 
-CSS 3
+[Skrollr]
 
-Bootstrap 4 
+[PHP]
 
-Skrollr
+[AJAX]
 
-Javascript 
-
-Jquery
 
 ![alt text](https://raw.githubusercontent.com/GabrielMandler/CityOfTwins-Music/master/12.png?raw=true)
 
