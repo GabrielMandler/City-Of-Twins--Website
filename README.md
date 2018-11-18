@@ -10,15 +10,15 @@ Unfortunately because of the recent changes in mobile browser, the best way to c
 
 # Build with:
 
-[Jquery]
+* [Jquery]
 
-[Javascript]
+* [Javascript]
 
-[Skrollr]
+* [Skrollr]
 
-[PHP]
+* [PHP]
 
-[AJAX]
+* [AJAX]
 
 
 ![alt text](https://raw.githubusercontent.com/GabrielMandler/CityOfTwins-Music/master/12.png?raw=true)
