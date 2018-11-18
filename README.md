@@ -1,9 +1,16 @@
-# CityOfTwins-Music
+# City Of Twins
 A website designed for my band!
 
 Check both desktop and mobile version for totaly different experience!
 
-Written in PHP, AJAX, HTML 5, CSS 3,Bootstrap 4 Javascript, Jquery.
+# Build with:
+PHP
+AJAX
+HTML 5
+CSS 3
+Bootstrap 4 
+Javascript 
+Jquery
 
 
 Check it live at: https://city-of-twins.000webhostapp.com
